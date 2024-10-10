@@ -4,7 +4,7 @@ import './global.css';
 
 
 export const metadata: Metadata = {
-  title: 'React App',
+  title: 'Malik Robinson',
   description: 'Web site created...',
 }
 
@@ -17,8 +17,6 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
-        <title>React App</title>
-        <meta name="description" content="Web site created..." />
       </head>
       <body>
         <div id="root">{children}</div>
