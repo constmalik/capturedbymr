@@ -1,9 +1,9 @@
-import { Nav }  from '../nav/Nav';
+import { NavBar }  from '../nav/index';
 
 export const Header = () => {
   return (
     <div>
-      <Nav />
+      <NavBar />
       <h1>Malik Robinson</h1>
       <p>Web site created...</p>      
     </div>
