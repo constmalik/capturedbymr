@@ -1,4 +1,16 @@
 body {
-  padding: 20px 20px 60px;
-  background: #071c07;
+  padding: 0px;
+  margin: 0;
+  
+
+  /* 
+TODO: Add Page layout Styling - Mobile First Design!!
+
+- Style Page Layouts for all device sizes
+  - determine padding/margin for all devices 
+  - add css variables??
+    - for colors, sizes, etc
+    - for different themes (light/dark) 
+
+*/
 }

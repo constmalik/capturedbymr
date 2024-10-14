@@ -1,0 +1,29 @@
+.navBar {
+  background: #225322;
+}
+
+.navBar ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 10px 8px;
+  margin: 0;
+}
+
+.navLink a {
+  text-decoration: none;
+  color: white;
+}
+
+/* 
+TODO: Add Media Query - Mobile First Design!!
+
+- Style NavBar
+  - sticky/fixed mobile navBar at bottom of page
+  - hamburger icon for all devices??
+    - could be a phase two moment
+
+*/
+
