@@ -1,9 +1,17 @@
 body {
   padding: 0px;
   margin: 0;
-  
+}
 
-  /* 
+.content-wrapper {
+  margin: 20px 80px;
+}
+
+.header {
+  text-align: center;
+}
+
+/* 
 TODO: Add Page layout Styling - Mobile First Design!!
 
 - Style Page Layouts for all device sizes
@@ -13,4 +21,3 @@ TODO: Add Page layout Styling - Mobile First Design!!
     - for different themes (light/dark) 
 
 */
-}
